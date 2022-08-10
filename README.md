@@ -11,3 +11,5 @@ The goal of this project is to use reflection seismic data and well logging data
 Based on Bayesian inference theory, the elastic parameters that are used for estimation are the sonic wave velocity Vp and the shear wave velocity Vs. The ratio between the sonic wave velocity and the shear wave velocity is sensitive to the reservoir characterization.
 
 <img src="usr/fig2.png" alt="Figure 2" width="700"/>
+
+![](usr/mov.)
