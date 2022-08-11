@@ -13,6 +13,7 @@ Based on Bayesian inference theory, the elastic parameters that are used for est
 <img src="usr/fig2.png" alt="Figure 2" width="700"/>
 
 ## Well Data Analysis and Missing Data Imputation
+Five well logging data in this project are used to estimate the prior information for Bayesian inference. Four wells have both sonic logs (Vp) and shear logs (Vs). The shear log data are missing in well T162.
 
 <img src="usr/fig3.png" alt="Figure 3" width="700"/>
 
