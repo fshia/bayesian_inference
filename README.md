@@ -30,7 +30,16 @@ Then, the 1D prior at five wells can be interpolated to 2D.
 
 <img src="usr/fig6.png" alt="Figure 6" width="700"/>
 
+## Bayesian Inference for Elastic Parameters
+The elastic parameters that are used for Bayesian inference are the sonic wave velocity Vp and the shear wave velocity Vs. The likelihood function is using a geophysical convolution function: d = Cm(Vp, Vs). And the Bayesian model is defined as:
+
+<img src="usr/fig7.png" alt="Figure 7" width="650"/>
+
+where d is the input seismic reflection data.
+
+<img src="usr/fig8.png" alt="Figure 8" width="650"/>
+
 ## Graphic User Interface (GUI) Development
-The graphic user interface is developed using Python for easy data and computation management. The kernel algorithms are implemented by Fortran, C++ and shell scripts with efficient multi-level parallelization (OpenMP + MPI) and optimization on CPU multiprocessor platforms.
+The graphic user interface is developed using Python for easy data and computation management. The kernel algorithms of Bayesian inference are implemented by Fortran, C++ and shell scripts with efficient multi-level parallelization (OpenMP + MPI) and optimization on CPU multiprocessor platforms.
 
 https://user-images.githubusercontent.com/110936252/184060747-2cb085bb-41d3-49f8-8b85-0d1e5b114db1.mov
