@@ -17,7 +17,7 @@ Five well logging data in this project are used to estimate the prior informatio
 
 <img src="usr/fig3.png" alt="Figure 3" width="700"/>
 
-By wrangling and analyzing four complete well logging data, the missing shear log data are estimated using Bayesian framework in R.
+By wrangling and analyzing four complete well logging data, the missing shear log data are estimated using linear regression model of Bayesian framework in R.
 
 <img src="usr/fig4.png" alt="Figure 4" width="900"/>
 
