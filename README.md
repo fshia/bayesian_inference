@@ -17,6 +17,10 @@ Five well logging data in this project are used to estimate the prior informatio
 
 <img src="usr/fig3.png" alt="Figure 3" width="700"/>
 
+By wrangling and analyzing four complete well logging data, the missing shear log data are estimated using Bayesian framework in R.
+
+<img src="usr/fig4.png" alt="Figure 4" width="700"/>
+
 ## Graphic User Interface (GUI) Development
 The graphic user interface is developed using Python for easy data and computation management. The kernel algorithms are implemented by Fortran, C++ and shell scripts with efficient multi-level parallelization (OpenMP + MPI) and optimization on CPU multiprocessor platforms.
 
