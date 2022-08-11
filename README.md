@@ -21,6 +21,15 @@ By wrangling and analyzing four complete well logging data, the missing shear lo
 
 <img src="usr/fig4.png" alt="Figure 4" width="900"/>
 
+## Prior Information Estimation
+The Bayesian inference requires to estimate prior information that can be obtained by using interpolation method. First, the prior mean estimation of Vp and Vs (red curves) at five wells are calculated.
+
+<img src="usr/fig5.png" alt="Figure 5" width="700"/>
+
+Then, the 1D prior at five wells can be interpolated to 2D.
+
+<img src="usr/fig6.png" alt="Figure 6" width="700"/>
+
 ## Graphic User Interface (GUI) Development
 The graphic user interface is developed using Python for easy data and computation management. The kernel algorithms are implemented by Fortran, C++ and shell scripts with efficient multi-level parallelization (OpenMP + MPI) and optimization on CPU multiprocessor platforms.
 
