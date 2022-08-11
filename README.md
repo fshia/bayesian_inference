@@ -12,12 +12,11 @@ Based on Bayesian inference theory, the elastic parameters that are used for est
 
 <img src="usr/fig2.png" alt="Figure 2" width="700"/>
 
+## Well Data Analysis and Missing Data Imputation
+
+<img src="usr/fig3.png" alt="Figure 3" width="700"/>
+
 ## Graphic User Interface (GUI) Development
 The graphic user interface is developed using Python for easy data and computation management. The kernel algorithms are implemented by Fortran, C++ and shell scripts with efficient multi-level parallelization (OpenMP + MPI) and optimization on CPU multiprocessor platforms.
 
 https://user-images.githubusercontent.com/110936252/184060747-2cb085bb-41d3-49f8-8b85-0d1e5b114db1.mov
-
-
-
-
-
