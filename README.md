@@ -13,5 +13,5 @@ Based on Bayesian inference theory, the elastic parameters that are used for est
 <img src="usr/fig2.png" alt="Figure 2" width="700"/>
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="usr/demo.mov" type="video/mp4">
+<source src="usr/demo.mp4" type="video/mp4">
 </video>
