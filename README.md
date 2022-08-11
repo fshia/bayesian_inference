@@ -37,8 +37,6 @@ The elastic parameters that are used for Bayesian inference are the sonic wave v
 
 where d is the input seismic reflection data.
 
-<img src="usr/fig8.png" alt="Figure 8" width="650"/>
-
 ## Graphic User Interface (GUI) Development
 The graphic user interface is developed using Python for easy data and computation management. The kernel algorithms of Bayesian inference are implemented by Fortran, C++ and shell scripts with efficient multi-level parallelization (OpenMP + MPI) and optimization on CPU multiprocessor platforms.
 
