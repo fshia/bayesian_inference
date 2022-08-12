@@ -40,5 +40,5 @@ The graphic user interface is developed using Python for easy data and computati
 
 https://user-images.githubusercontent.com/110936252/184060747-2cb085bb-41d3-49f8-8b85-0d1e5b114db1.mov
 
-# Future Work
+## Future Work
 The demonstrated workflow for elastic parameter estimation using Bayesian framework involves data management, data wrangling, data analysis and data transformation. Currently, each part in the data pipeline is implemented separately, i.e. using different software platform. It is ideal to incorporate all of them into one platform that will make the data pipeline more efficient and robust.
